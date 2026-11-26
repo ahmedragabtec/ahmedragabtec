@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ahmed Ragab El-Shafei 👋
 
-<!--
-**ahmedragabtec/ahmedragabtec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Consultant & EdTech Specialist** | Freelance Software, Automation & Data Solutions via **technology-eg** (`Egypt`)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Build & Deliver
+* **Workflow & Process Automation:** Streamlining repetitive operational and administrative tasks into reliable automated systems.
+* **Institutional & Academic Data Systems:** Designing structured spreadsheets, databases, and tracking tools for organizations and educational environments.
+* **Custom Tools & Scripting:** Building practical desktop, web, and automation utilities tailored to real business needs.
+
+### Core Stack & Tools
+* **Python** (Scripting, automation & custom applications)
+* **Google Apps Script & Google Sheets** (Custom workflows, data entry & dynamic sheets)
+* **Microsoft Excel & VBA** (Automated templates, scheduling & reporting)
+* **Web & UI Basics** (HTML, CSS & lightweight interfaces)
+
+### Website & Contact
+* **Website:** [https://technology-eg.com/](https://technology-eg.com/)
+* **Location:** Egypt (Remote & Freelance)
